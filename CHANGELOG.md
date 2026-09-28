@@ -1,3 +1,15 @@
+## [2.0.0](https://github.com/bakwudo/uyu/compare/v1.2.0...v2.0.0) (2026-09-28)
+
+### ⚠ BREAKING CHANGES
+
+* With "Install as a separate app", uyu now installs as io.github.bakwudo.uyu. Android treats it as a different app from earlier uyu builds, so install it again and log in again. The uyu settings of the separate app start from the defaults. Uninstall the earlier uyu when you no longer need it.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+
+### refactor
+
+* Rename the package to io.github.bakwudo.uyu ([5bd7d0e](https://github.com/bakwudo/uyu/commit/5bd7d0e19850ca07d1260a882d582d2191e8f32e))
+
 ## [1.2.0](https://github.com/bakwudo/uyu/compare/v1.1.0...v1.2.0) (2026-09-28)
 
 ### ✨ New Features
